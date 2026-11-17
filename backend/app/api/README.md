@@ -1,0 +1,1 @@
+REST endpoints are defined in routes.py.

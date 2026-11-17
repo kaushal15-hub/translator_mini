@@ -1,0 +1,1 @@
+Speech interfaces are future work. Audio transcription, subtitles and text-to-speech are not implemented.

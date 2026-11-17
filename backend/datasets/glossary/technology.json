@@ -1,0 +1,23 @@
+[
+  {
+    "term": "Python",
+    "aliases": [
+      "python3"
+    ],
+    "preserve_original": true,
+    "priority": 10
+  },
+  {
+    "term": "Machine Learning",
+    "aliases": [
+      "ML"
+    ],
+    "preserve_original": true,
+    "priority": 10
+  },
+  {
+    "term": "TCP/IP",
+    "preserve_original": true,
+    "priority": 10
+  }
+]

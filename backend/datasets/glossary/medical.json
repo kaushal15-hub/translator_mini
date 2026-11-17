@@ -1,0 +1,23 @@
+[
+  {
+    "term": "MRI",
+    "preserve_original": true,
+    "priority": 10
+  },
+  {
+    "term": "CT Scan",
+    "aliases": [
+      "CT scan"
+    ],
+    "preserve_original": true,
+    "priority": 10
+  },
+  {
+    "term": "Hemoglobin",
+    "aliases": [
+      "Hb"
+    ],
+    "preserve_original": true,
+    "priority": 10
+  }
+]

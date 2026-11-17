@@ -1,0 +1,1 @@
+Place licensed evaluation samples here. Do not include private medical conversations. Evaluate translation quality separately from glossary-preservation accuracy.

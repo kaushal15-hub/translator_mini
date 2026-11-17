@@ -1,0 +1,41 @@
+original_term,alternatives,aliases,domain,source_language,target_language,case_sensitive,preserve_original,priority,active
+MRI,Magnetic Resonance Imaging,medical,en,kn,true,true,10,true
+CT Scan,Computed Tomography,CAT Scan,medical,en,kn,true,true,10,true
+ECG,Electrocardiogram,EKG,medical,en,kn,true,true,10,true
+EEG,Electroencephalogram,medical,en,kn,true,true,10,true
+BP,Blood Pressure,medical,en,kn,true,true,10,true
+Diabetes,Diabetes Mellitus,DM,medical,en,kn,true,true,10,true
+Insulin,medical,en,kn,true,true,10,true
+Hemoglobin,Hb,medical,en,kn,true,true,10,true
+Creatinine,Cr,medical,en,kn,true,true,10,true
+ICU,Intensive Care Unit,medical,en,kn,true,true,10,true
+Diagnosis,Dx,medical,en,kn,true,true,10,true
+Paracetamol,Acetaminophen,Tylenol,medical,en,kn,true,true,10,true
+Ibuprofen,Advil,Motrin,medical,en,kn,true,true,10,true
+Aspirin,ASA,Acetylsalicylic Acid,medical,en,kn,true,true,10,true
+Antibiotic,Abx,medical,en,kn,true,true,10,true
+Vaccine,Vaccination,Immunization,medical,en,kn,true,true,10,true
+Hypertension,High Blood Pressure,HTN,medical,en,kn,true,true,10,true
+Hypotension,Low Blood Pressure,medical,en,kn,true,true,10,true
+Tachycardia,Fast Heart Rate,medical,en,kn,true,true,10,true
+Bradycardia,Slow Heart Rate,medical,en,kn,true,true,10,true
+Fever,Pyrexia,medical,en,kn,true,true,10,true
+Infection,medical,en,kn,true,true,10,true
+Inflammation,medical,en,kn,true,true,10,true
+Allergy,Allergic Reaction,Hypersensitivity,medical,en,kn,true,true,10,true
+Asthma,Bronchial Asthma,medical,en,kn,true,true,10,true
+COPD,Chronic Obstructive Pulmonary Disease,medical,en,kn,true,true,10,true
+Pneumonia,medical,en,kn,true,true,10,true
+Stroke,Cerebrovascular Accident,CVA,medical,en,kn,true,true,10,true
+Heart Attack,Myocardial Infarction,MI,medical,en,kn,true,true,10,true
+Cancer,Malignancy,Neoplasm,medical,en,kn,true,true,10,true
+Tumor,Neoplasm,medical,en,kn,true,true,10,true
+Biopsy,medical,en,kn,true,true,10,true
+Chemotherapy,Chemo,medical,en,kn,true,true,10,true
+Radiation Therapy,Radiotherapy,RT,medical,en,kn,true,true,10,true
+Surgery,Surgical Procedure,Operation,medical,en,kn,true,true,10,true
+Anesthesia,Anaesthesia,medical,en,kn,true,true,10,true
+Prescription,Rx,medical,en,kn,true,true,10,true
+Dosage,Dose,medical,en,kn,true,true,10,true
+Side Effect,Adverse Effect,Adverse Reaction,medical,en,kn,true,true,10,true
+Contraindication,medical,en,kn,true,true,10,true

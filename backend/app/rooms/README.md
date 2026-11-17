@@ -1,0 +1,1 @@
+Room and membership persistence is implemented in app/database/models.py and room access is checked in main.py.

@@ -1,0 +1,1 @@
+Communication room UI components can be added here.

@@ -1,0 +1,38 @@
+original_term,alternatives,aliases,domain,source_language,target_language,case_sensitive,preserve_original,priority,active
+Python,Py,Python3,technology,en,kn,true,true,10,true
+Java,Java SE,OpenJDK,technology,en,kn,true,true,10,true
+JavaScript,JS,ECMAScript,technology,en,kn,true,true,10,true
+TypeScript,TS,technology,en,kn,true,true,10,true
+React,ReactJS,technology,en,kn,true,true,10,true
+FastAPI,technology,en,kn,true,true,10,true
+API,REST API,GraphQL API,technology,en,kn,true,true,10,true
+SQL,Structured Query Language,technology,en,kn,true,true,10,true
+MongoDB,Mongo,technology,en,kn,true,true,10,true
+PostgreSQL,Postgres,technology,en,kn,true,true,10,true
+Redis,technology,en,kn,true,true,10,true
+Docker,Container,technology,en,kn,true,true,10,true
+Kubernetes,K8s,technology,en,kn,true,true,10,true
+GitHub,Git,technology,en,kn,true,true,10,true
+GitLab,technology,en,kn,true,true,10,true
+Linux,GNU/Linux,technology,en,kn,true,true,10,true
+AWS,Amazon Web Services,technology,en,kn,true,true,10,true
+Azure,Microsoft Azure,technology,en,kn,true,true,10,true
+GCP,Google Cloud Platform,technology,en,kn,true,true,10,true
+Machine Learning,ML,Artificial Intelligence,technology,en,kn,true,true,10,true
+Deep Learning,DL,Neural Networks,technology,en,kn,true,true,10,true
+Neural Network,NN,technology,en,kn,true,true,10,true
+TensorFlow,TF,technology,en,kn,true,true,10,true
+PyTorch,technology,en,kn,true,true,10,true
+Scikit-learn,sklearn,technology,en,kn,true,true,10,true
+Firewall,technology,en,kn,true,true,10,true
+TCP/IP,TCP IP,technology,en,kn,true,true,10,true
+HTTP,HTTPS,technology,en,kn,true,true,10,true
+REST,RESTful,technology,en,kn,true,true,10,true
+GraphQL,technology,en,kn,true,true,10,true
+WebSocket,WS,technology,en,kn,true,true,10,true
+Microservices,technology,en,kn,true,true,10,true
+Serverless,technology,en,kn,true,true,10,true
+CI/CD,Continuous Integration/Continuous Deployment,technology,en,kn,true,true,10,true
+Git,Version Control,technology,en,kn,true,true,10,true
+Agile,Scrum,Kanban,technology,en,kn,true,true,10,true
+DevOps,technology,en,kn,true,true,10,true

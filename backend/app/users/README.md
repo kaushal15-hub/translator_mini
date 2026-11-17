@@ -1,0 +1,1 @@
+User registration, login and role management endpoints are implemented in app/api/routes.py.

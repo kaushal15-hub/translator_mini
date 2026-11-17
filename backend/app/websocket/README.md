@@ -1,0 +1,1 @@
+Authenticated room WebSocket handling is in backend/main.py; manager broadcasts to connected room members.

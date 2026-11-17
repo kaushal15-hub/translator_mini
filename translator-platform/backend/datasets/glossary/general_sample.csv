@@ -1,0 +1,48 @@
+original_term,alternatives,aliases,domain,source_language,target_language,case_sensitive,preserve_original,priority,active
+Hello,Hi,Hey,general,en,kn,true,true,10,true
+Goodbye,Bye,See you,general,en,kn,true,true,10,true
+Thank you,Thanks,Appreciate it,general,en,kn,true,true,10,true
+Please,Kindly,general,en,kn,true,true,10,true
+Sorry,Apologies,Excuse me,general,en,kn,true,true,10,true
+Yes,Yeah,Yep,general,en,kn,true,true,10,true
+No,Nope,Nah,general,en,kn,true,true,10,true
+Maybe,Perhaps,Possibly,general,en,kn,true,true,10,true
+I don't know,IDK,Dunno,general,en,kn,true,true,10,true
+How are you,How do you do,general,en,kn,true,true,10,true
+Good morning,Morning,general,en,kn,true,true,10,true
+Good afternoon,Afternoon,general,en,kn,true,true,10,true
+Good evening,Evening,general,en,kn,true,true,10,true
+Good night,Night,general,en,kn,true,true,10,true
+What is your name,Name please,general,en,kn,true,true,10,true
+My name is,I am,general,en,kn,true,true,10,true
+Where are you from,Where do you come from,general,en,kn,true,true,10,true
+I am from,I come from,general,en,kn,true,true,10,true
+What do you do,What is your job,general,en,kn,true,true,10,true
+I work as,I am a,general,en,kn,true,true,10,true
+Nice to meet you,Glad to meet you,Pleased to meet you,general,en,kn,true,true,10,true
+Have a nice day,Have a good day,general,en,kn,true,true,10,true
+Take care,Take care of yourself,general,en,kn,true,true,10,true
+See you later,See you soon,Catch you later,general,en,kn,true,true,10,true
+Good luck,Best of luck,general,en,kn,true,true,10,true
+Congratulations,Congrats,general,en,kn,true,true,10,true
+Happy birthday,HB,general,en,kn,true,true,10,true
+Merry Christmas,general,en,kn,true,true,10,true
+Happy New Year,general,en,kn,true,true,10,true
+Welcome,You are welcome,general,en,kn,true,true,10,true
+Excuse me,Pardon me,general,en,kn,true,true,10,true
+I understand,Got it,Clear,general,en,kn,true,true,10,true
+I don't understand,Don't get it,Confused,general,en,kn,true,true,10,true
+Can you repeat,Repeat please,Say again,general,en,kn,true,true,10,true
+Speak slowly,Slow down,general,en,kn,true,true,10,true
+What does this mean,Meaning of this,general,en,kn,true,true,10,true
+How do you say,How to say,general,en,kn,true,true,10,true
+Can you help me,Help please,Need help,general,en,kn,true,true,10,true
+Where is,Location of,general,en,kn,true,true,10,true
+How much,Price,Cost,general,en,kn,true,true,10,true
+What time,When,general,en,kn,true,true,10,true
+Today,Now,general,en,kn,true,true,10,true
+Tomorrow,Next day,general,en,kn,true,true,10,true
+Yesterday,Previous day,general,en,kn,true,true,10,true
+This week,Current week,general,en,kn,true,true,10,true
+Next week,Coming week,general,en,kn,true,true,10,true
+Last week,Previous week,general,en,kn,true,true,10,true

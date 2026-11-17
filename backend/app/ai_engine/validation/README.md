@@ -1,0 +1,1 @@
+Current validation is input/schema validation plus glossary placeholder restoration; semantic translation validation is not implemented.

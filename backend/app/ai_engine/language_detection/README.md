@@ -1,0 +1,1 @@
+Automatic language detection is not implemented. Source and target languages are user-selected.
